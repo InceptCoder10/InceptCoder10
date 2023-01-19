@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @InceptCoder10
-- 👀 I’m interested in competetive programming and web development
-- 🌱 I’m currently learning c++,html,css & javascript 
-- 💞️ I’m looking to collaborate on designing webpages 
+- 👋 Hi, I’m @InceptCoder10.
+- 👀 I’m interested in Competetive Programming and Web Development.
+- 🌱 I’m currently learning C++,HTML,CSS & Javascript. 
+- 💞️ I’m looking to collaborate on designing webpages. 
 - 📫 Reach me on instagram @ https://instagram.com/gauravs_artwork?igshid=YmMyMTA2M2Y=
 
 <!---
